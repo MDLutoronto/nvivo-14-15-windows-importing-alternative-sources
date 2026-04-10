@@ -14,7 +14,7 @@ maintainer:
 
 NVivo can handle many types of files, such as text, audio, videos, images, etc. You would import these from the Import Ribbon, by choosing the Files option. However, this tutorial will show you two common sources of data that you might want to code in NVivo that are a bit more complicated to import.
 
-The first part is on [NCapture](#NCapture), a tool that lets you easily capture webpages as PDFs. The second part is on [importing survey data](#Survey Data) into NVivo.
+The first part is on [NCapture](#n-capture), a tool that lets you easily capture webpages as PDFs. The second part is on [importing survey data](#survey-data) into NVivo.
 
 **NCapture**
 ------------
