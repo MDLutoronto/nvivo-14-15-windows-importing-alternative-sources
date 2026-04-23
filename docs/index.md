@@ -1,5 +1,5 @@
 ---
-title: Importing Alternative Sources in NVivo 14/15 for Windows | Map and Data Library
+title: Importing Alternative Sources in NVivo 14/15 for Windows 
 layout: home
 description: NVivo can handle many types of files, such as text, audio, videos, images, etc. You would import these from the Import Ribbon, by choosing the Files option. However, this tutorial will show you two common sources of data that you might want to code in NVivo that are a bit more complicated to import.
 staff:
@@ -10,7 +10,7 @@ maintainer:
    link: https://library.utoronto.ca/staff/kelly-schultz
 ---
 
-# Importing Alternative Sources in NVivo 14/15 for Windows | Map and Data Library
+# Importing Alternative Sources in NVivo 14/15 for Windows 
 
 NVivo can handle many types of files, such as text, audio, videos, images, etc. You would import these from the Import Ribbon, by choosing the Files option. However, this tutorial will show you two common sources of data that you might want to code in NVivo that are a bit more complicated to import.
 
@@ -302,5 +302,7 @@ Resources to Learn More
 Visit our [Getting Started](https://mdl.library.utoronto.ca/technology/tutorials/nvivo-information-resources-tutorials-and-workshops) page for more information, tutorials, and workshops on NVivo 15!
 
 Check out [this NVivo help page](https://help-nv.qsrinternational.com/15/win/Content/files/files.htm) to explore all the file types you can import into an NVivo project.
+
+**Technique:** [Qualitative Data Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Qualitative+Data+Analysis) \| **Tools:** [NVivo](https://mdlutoronto.github.io/tutorials-search/?tool=NVivo)
 
 **Date Created:** 2023\-11\-20 **Updated:** 2026\-02\-06
