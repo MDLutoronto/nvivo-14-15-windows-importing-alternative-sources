@@ -1,5 +1,5 @@
 ---
-title: Importing Alternative Sources in NVivo 14/15 for Windows
+title: Importing Alternative Sources in NVivo 14/15 for Windows 
 layout: home
 description: NVivo can handle many types of files, such as text, audio, videos, images, etc. You would import these from the Import Ribbon, by choosing the Files option. However, this tutorial will show you two common sources of data that you might want to code in NVivo that are a bit more complicated to import.
 created_date: 2023-11-20
