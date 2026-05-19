@@ -67,14 +67,11 @@ Note: This activity assumes you are familiar with case classifications and cases
 
 8. The next screen provides you an option to autocode responses by sentiment (i.e., positive or negative). Sentiment can be useful, especially if you have a huge amount of survey responses and won’t be manually coding all the answers, but want to get a sense of the content. For example, a survey question might be – did you like a particular product, and then NVivo can code for sentiment to see if generally people liked it or didn’t like it. 
 
-*Note: In order to use this autocode by sentiment feature, you need to sign up for a [MyLumivero Portal](https://lumivero.com/mylumivero/) account. Launch the MyLumivero Portal, select Sign Up and follow the instructions to create an account. You then will need to log into the portal with this account first before selecting this option in the survey import. It asks you to log in on the welcome screen when you first start up the program. Keep in mind, though, that the University of Toronto has not reviewed these accounts for privacy concerns. You sign up for an account at your own risk.* 
+    *Note: In order to use this autocode sentiment feature, you need to sign up for a [MyLumivero Portal](https://lumivero.com/mylumivero/) account. Launch the [MyLumivero Portal](https://my.lumivero.com/), select Sign up now, and follow the instructions to create an account. You then will need to log into the portal with this account first, before selecting autocode sentiment in the survey import wizard. NVivo asks you to log in on the welcome screen when you first start up the program. Keep in mind, though, that the University of Toronto has not reviewed these accounts for privacy concerns. You sign up for an account at your own risk.* 
 
-In our case, let’s uncheck this option for now. Then click Finish to complete importing in our data.
+    In our case, let’s uncheck this option for now. Then click Finish to complete importing in our data.
 
-<img src="{{ '/assets/images/NVivo_NCapture_Windows_0010.png' | relative_url }}" alt='Survey Import Wizard Step 4 with Auto code Sentiment unchecked and highlighted. Also, the Finish button is highlighted. ' title='' width='652' height='647' />
-
-  
- 
+    <img src="{{ '/assets/images/NVivo_NCapture_Windows_0010.png' | relative_url }}" alt='Survey Import Wizard Step 4 with Auto code Sentiment unchecked and highlighted. Also, the Finish button is highlighted. ' title='' width='652' height='647' />
 
 9. You will see a progress screen. When it is finished, click on Close.
 

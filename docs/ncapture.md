@@ -123,7 +123,7 @@ For this tutorial, let's capture an article for analysis in NVivo.
   
  
 
-12. Then go back to NVivo. Create a new project file or open up an existing project file that you want to import this into. From the left menu, under Import, select NCapture.
+12. Then go back to NVivo. Create a new project file or open up an existing project file that you want to import this into. From the top menu, under Import, select NCapture.
 
     <img src="{{ '/assets/images/NVivo_NCapture_Windows_0001.png' | relative_url }}" alt='NVivo with the import ribbon open and the NCapture option highlighted. ' title='' width='1206' height='210' />
 
