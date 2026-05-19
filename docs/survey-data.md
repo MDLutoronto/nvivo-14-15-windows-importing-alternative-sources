@@ -29,7 +29,7 @@ Note: This activity assumes you are familiar with case classifications and cases
 
     <img src="{{ '/assets/images/DownloadMillennialDatasetv2.png' | relative_url }}" alt='There is a download arrow highlighted next to the name of the dataset' title='' width='1237' height='744' />
 
-2. Go to NVivo. From the top menu, under Import, select **Survey \> Excel.**
+2. Go to NVivo. Create a new project file or open up an existing project file that you want to import this into. From the top menu, under Import, select **Survey \> Excel.**
 
     <img src="{{ '/assets/images/NVivo_NCapture_Windows_0005.png' | relative_url }}" alt='Under the import ribbon, survey is selected and Excel is selected. ' title='' width='942' height='291' />
 
@@ -65,21 +65,18 @@ Note: This activity assumes you are familiar with case classifications and cases
   
  
 
-8. The next screen provides you an option to autocode responses by sentiment (i.e., positive or negative), and by themes, meaning NVivo tries to come up with themes based on the content of the text. Sentiment can be useful, especially if you have a huge amount of survey responses and won’t be manually coding all the answers, but want to get a sense of the content. For example, a survey question might be – did you like a particular product, and then NVivo can code for sentiment to see if generally people liked it or didn’t like it. Thematic coding is trickier and may not result in a lot of useful information. You can always give it a try if you like and then not use those codes if they don’t make sense. In our case, let’s keep both checked to see the results.
+8. The next screen provides you an option to autocode responses by sentiment (i.e., positive or negative). Sentiment can be useful, especially if you have a huge amount of survey responses and won’t be manually coding all the answers, but want to get a sense of the content. For example, a survey question might be – did you like a particular product, and then NVivo can code for sentiment to see if generally people liked it or didn’t like it. 
 
-    <img src="{{ '/assets/images/NVivo_NCapture_Windows_0010.png' | relative_url }}" alt='Survey Import Wizard Step 4 with Auto code Themes and Auto code Sentiment checked off and highlighted. ' title='' width='652' height='647' />
+*Note: In order to use this autocode by sentiment feature, you need to sign up for a [MyLumivero Portal](https://lumivero.com/mylumivero/) account. Launch the MyLumivero Portal, select Sign Up and follow the instructions to create an account. You then will need to log into the portal with this account first before selecting this option in the survey import. It asks you to log in on the welcome screen when you first start up the program. Keep in mind, though, that the University of Toronto has not reviewed these accounts for privacy concerns. You sign up for an account at your own risk.* 
 
-  
- 
+In our case, let’s uncheck this option for now. Then click Finish to complete importing in our data.
 
-9. Then click finish to complete importing in our data. Note: The first time you do this in NVivo, it may say it needs to first download additional components in order to complete the task, and so it could take longer to run than normal.
-
-    <img src="{{ '/assets/images/NVivo_NCapture_Windows_0011.png' | relative_url }}" alt='Survey Import Wizard Step 4 with Finish highlighted. ' title='' width='648' height='645' />
+<img src="{{ '/assets/images/NVivo_NCapture_Windows_0010.png' | relative_url }}" alt='Survey Import Wizard Step 4 with Auto code Sentiment unchecked and highlighted. Also, the Finish button is highlighted. ' title='' width='652' height='647' />
 
   
  
 
-    You will see a progress screen. Auto coding will take a bit of time to complete depending on the size of your survey. When it is finished, click on Close.
+9. You will see a progress screen. When it is finished, click on Close.
 
  
 
@@ -88,58 +85,23 @@ Note: This activity assumes you are familiar with case classifications and cases
   
  
 
-10. NVivo will open up a number of tabs with different views of the data. The first tab (on the far right) you will see is your survey data in spreadsheet format. This is where you can read through the responses and code the data.
+10. NVivo will open up a tab with your survey data in spreadsheet format. This is where you can read through the responses and code the data.
 
-    <img src="{{ '/assets/images/NVivo_NCapture_Windows_0013.png' | relative_url }}" alt='NVivo data tabs opened. The "Interview_Database" tab selected and highlighted.' title='' width='1036' height='829' />
-
-  
- 
-
-11. Moving from right to left, the next tab shows you a visualization of sentiment, but I don’t find it very useful, so I would close this tab.
-
-    <img src="{{ '/assets/images/Survey_11_0.png' | relative_url }}" alt='NVivo data tabs opened. The "Composed by number of sentiments" tab selected and highlighted.' title='' width='1115' height='1133' />
+    <img src="{{ '/assets/images/NVivo_NCapture_Windows_0013.png' | relative_url }}" alt='NVivo data tab opened. The "Interview_Database" tab selected and highlighted.' title='' width='1036' height='829' />
 
   
  
 
-12. The next tab shows a matrix of sentiment by each survey respondent case. Here you can see generally if the survey respondent’s answers were fairly positive or negative, and spot some outliers.
+11. Using the left menu, under Coding, expand Codes, to explore the autogenerated codes. Click on the Interview\_Database folder to explore the codes that were autogenerated for each question.
 
-    <img src="{{ '/assets/images/Survey_12.png' | relative_url }}" alt='NVivo data tabs opened. The "Auto code sentiment results" tab selected and highlighted.' title='' width='1081' height='506' />
+    <img src="{{ '/assets/images/NVivo_NCapture_Windows_0014.png' | relative_url }}" alt='In the left menu, under coding, Codes is expanded and Interview_Database is selected and highlighted.' title='' width='914' height='875' />
 
-  
- 
 
-13. The next tabs shows a visualization of themes found in the survey data responses, where the boxes and sub\-boxes are autogenerated codes, and the size of the box is how frequent that code occurred.
+12. Using the left menu, under Cases, expand Cases, to explore the autogenerated cases. Click on the Interview\_Database folder to explore the cases that were autogenerated for each survey participant with their attributes pulled from the closed-ended questions.
 
-    <img src="{{ '/assets/images/Survey_13.png' | relative_url }}" alt='NVivo data tabs opened. The "Compared by number of coding references" tab selected and highlighted.' title='' width='1087' height='970' />
+    <img src="{{ '/assets/images/NVivo_NCapture_Windows_0015_0.png' | relative_url }}" alt='In the left menu, under Cases, Cases is expanded and Interview_Database is selected and highlighted.' title='' width='906' height='877' />
 
-  
- 
-
-14. The final tab shows a matrix of the themes by survey respondent.
-
-    <img src="{{ '/assets/images/Survey_14.png' | relative_url }}" alt='NVivo data tabs opened. The "Auto code sentiment results" tab selected and highlighted.' title='' width='1087' height='459' />
-
-  
- 
-
-15. Using the left menu, under Coding, expand Codes, to explore the autogenerated nodes. First click on the Autocoded Themes folder to explore the autogenerated codes identified by NVivo in your content and their references.
-
-    <img src="{{ '/assets/images/NVivo_NCapture_Windows_0014.png' | relative_url }}" alt='In the left menu, under coding, Codes is expanded and autocoded Themes is selected and highlighted.' title='' width='914' height='875' />
-
-  
- 
-
-16. Next click on the Interview\_Database folder to explore the codes that were autogenerated for each question.
-
-    <img src="{{ '/assets/images/NVivo_NCapture_Windows_0015_0.png' | relative_url }}" alt='In the left menu, under coding, Codes is expanded and Interview_Database is selected and highlighted.' title='' width='906' height='877' />
-
-  
- 
-
-17. Finally, click on the Sentiment folder under Coding, to explore the positive and negative codes and references. For any newly created Code, you can double click on it to see the references.
-
-    <img src="{{ '/assets/images/NVivo_NCapture_Windows_0016.png' | relative_url }}" alt='In the left menu, under coding, sentiment is selected and highlighted.' title='' width='908' height='882' />
+Now your survey data has been imported and organized, ready for analysis!
 
 **Technique:** [Qualitative Data Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Qualitative+Data+Analysis) \| **Tool:** [NVivo](https://mdlutoronto.github.io/tutorials-search/?tool=NVivo) 
  

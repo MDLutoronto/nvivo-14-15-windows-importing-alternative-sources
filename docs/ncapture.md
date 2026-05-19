@@ -123,7 +123,7 @@ For this tutorial, let's capture an article for analysis in NVivo.
   
  
 
-12. Then go back to NVivo. From the left menu, under Import, select NCapture.
+12. Then go back to NVivo. Create a new project file or open up an existing project file that you want to import this into. From the left menu, under Import, select NCapture.
 
     <img src="{{ '/assets/images/NVivo_NCapture_Windows_0001.png' | relative_url }}" alt='NVivo with the import ribbon open and the NCapture option highlighted. ' title='' width='1206' height='210' />
 
@@ -151,7 +151,7 @@ For this tutorial, let's capture an article for analysis in NVivo.
   
  
 
-16. If you double click on it, it will open up the PDF, and you will be able to read it and code the text.
+16. If you double click on it, it will open up the PDF, and you will be able to read it and code the text. You may need to use the Zoom options on the bottom right to make the text larger to read.
 
     <img src="{{ '/assets/images/NCapture_16.png' | relative_url }}" alt='The web article NCapture opened in NVivo.' title='' width='1390' height='714' />
 
