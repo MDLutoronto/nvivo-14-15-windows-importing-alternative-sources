@@ -7,7 +7,7 @@ maintainer:
     - name: Kelly Schultz
       link: https://library.utoronto.ca/staff/kelly-schultz
 title: NCapture
-parent: Importing Alternative Sources in NVivo 14/15 for Windows
+parent: Importing Alternative Sources in NVivo 15 for Windows
 nav_order: 1 
 layout: default
 ---
