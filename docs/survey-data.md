@@ -7,7 +7,7 @@ maintainer:
     - name: Kelly Schultz
       link: https://library.utoronto.ca/staff/kelly-schultz
 title: Survey Data
-parent: Importing Alternative Sources in NVivo 14/15 for Windows
+parent: Importing Alternative Sources in NVivo 15 for Windows
 nav_order: 2
 layout: default
 ---
@@ -16,7 +16,7 @@ layout: default
 
 Another common data type that you might want to use NVivo to analyze is survey data. NVivo can import survey data in directly from SurveyMonkey and Qualtrics, so if you use those tools, just select those options from the Import Ribbon. However, you may have your survey data just stored in a spreadsheet, where each row is a survey respondent’s answers and each column is a question. We can also import this type of data into NVivo.
 
-Note: This activity assumes you are familiar with case classifications and cases in NVivo. If case classifications and cases in NVivo is new to you, you can learn more in our [Introduction to NVivo 14/15 tutorial](https://mdlutoronto.github.io/nvivo-14-15-windows-intro/)!
+Note: This activity assumes you are familiar with case classifications and cases in NVivo. If case classifications and cases in NVivo is new to you, you can learn more in our [Introduction to NVivo 15 tutorial](https://mdlutoronto.github.io/nvivo-14-15-windows-intro/)!
 
 1. To start, let's download a small sample of survey data called the [Millennial Sentiment Interview Transcript Dataset](https://www.kaggle.com/parmarmanojkumar/msitd?select=Interview_Database.xlsx). This data set is hosted on Kaggle, which is an public data platform. To download this data you’ll first have to register for a free account (or sign in if you already have one). Click Register at the top right of the website.
 
